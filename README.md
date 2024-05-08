@@ -15,6 +15,39 @@
 - React Hooks: Utilize React hooks such as useState and useEffect for state management and lifecycle handling.
 - User Experience: Provide a simple, user-friendly interface with basic styling.
 
+## Installation Requirements
+- Git
+- Node.js and npm: Make sure you have Node.js and npm installed. These are necessary for running the project and managing dependencies.
+- json-server: Install json-server to serve db.json as a REST API. This tool helps you create a full-fledged JSON-based REST API server locally:
+
+### Installation instruction
+```
+Git clone https://github.com/Felleria/Group-1-Twitter-tweet.git
+
+```
+```
+npm install -g json-server
+
+```
+```
+json-server --watch db.json --port 3001
+
+```
+```
+npm start
+
+```
+## Technologies used
+- HTML        - json-server
+- Github      - React-hooks
+- Javascript
+- React
+- CSS
+
+
+## Support and contact details
+github.com/Felleria
+
 
 
 
