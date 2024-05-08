@@ -1,0 +1,33 @@
+{
+    "tweets" : [
+        {
+            "id": 1,
+            "user": "Asabeneh Yetayeh",
+            "username": "@Asabeneh",
+            "content": "30 Days Of React challenge has been started on 1 October and still ongoing...",
+            "date": "May 08, 2024 11:05 am"
+        },
+        {
+            "id": 2,
+            "user": "Asabeneh Yetayeh",
+            "username": "@Asabeneh",
+            "content": "30 Days Of JavaScript challenge has been started on 1 January and ended on 30 January 2020...",
+            "date": "May 08, 2024 11:05 am"
+        },
+        {
+            "id": 3,
+            "user": "Asabeneh Yetayeh",
+            "username": "@Asabeneh",
+            "content": "30 Days Of Python challenge has been started on 22 November 2019 and ended on 22 December 2020...",
+            "date": "May 08, 2024 11:05 am"
+        },
+        {
+            "id": 4,
+            "user": "Asabeneh Yetayeh",
+            "username": "@Asabeneh",
+            "content": "I have no idea about the coming challenge. It could be 30 days of HTML & CSS...",
+            "date": "May 08, 2024 11:05 am"
+        }
+    ]
+    
+}
