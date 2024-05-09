@@ -45,7 +45,7 @@ npm start
 - CSS
 
 
-# License
+## License
 MIT License
 
 Copyright (c) 2024 Felleria
