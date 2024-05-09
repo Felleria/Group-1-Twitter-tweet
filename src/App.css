@@ -1,7 +1,4 @@
-/* App component styling */
-body {
-  background-image: url('https://media.istockphoto.com/id/185234652/photo/tweet.jpg?s=1024x1024&w=is&k=20&c=-0e9-6PM2lbiSXT4f0Lg8qJgRLFVyZSczjwx1QZJqlY=');
-}
+
 .app {
   max-width: 600px;
   margin: auto;
